@@ -1,0 +1,121 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "mesdoc.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/mesdoc.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/mesdoc.Common.dll": {}
+        }
+      },
+      "mesdoc.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/mesdoc.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/mesdoc.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mesdoc.Common/1.0.0": {
+      "type": "project",
+      "path": "../mesdoc.Common/mesdoc.Common.csproj",
+      "msbuildProject": "../mesdoc.Common/mesdoc.Common.csproj"
+    },
+    "mesdoc.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../mesdoc.Infrastructure/mesdoc.Infrastructure.csproj",
+      "msbuildProject": "../mesdoc.Infrastructure/mesdoc.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "mesdoc.Common >= 1.0.0",
+      "mesdoc.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mendr\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\mesdoc.Domaine\\mesdoc.Domain.csproj",
+      "projectName": "mesdoc.Domain",
+      "projectPath": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\mesdoc.Domaine\\mesdoc.Domain.csproj",
+      "packagesPath": "C:\\Users\\mendr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\mesdoc.Domaine\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\mendr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\mesdoc.Common\\mesdoc.Common.csproj": {
+              "projectPath": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\mesdoc.Common\\mesdoc.Common.csproj"
+            },
+            "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\mesdoc.Infrastructure\\mesdoc.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\mesdoc.Infrastructure\\mesdoc.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

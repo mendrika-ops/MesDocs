@@ -1,0 +1,6 @@
+@Mesdoc_HostAddress = http://localhost:5273
+
+GET {{Mesdoc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
