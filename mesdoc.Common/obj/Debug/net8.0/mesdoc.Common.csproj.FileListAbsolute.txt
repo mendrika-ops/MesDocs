@@ -1,0 +1,11 @@
+C:\Users\mendr\Documents\Myproject\mesdoc\mesdoc.Common\bin\Debug\net8.0\mesdoc.Common.deps.json
+C:\Users\mendr\Documents\Myproject\mesdoc\mesdoc.Common\bin\Debug\net8.0\mesdoc.Common.dll
+C:\Users\mendr\Documents\Myproject\mesdoc\mesdoc.Common\bin\Debug\net8.0\mesdoc.Common.pdb
+C:\Users\mendr\Documents\Myproject\mesdoc\mesdoc.Common\obj\Debug\net8.0\mesdoc.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mendr\Documents\Myproject\mesdoc\mesdoc.Common\obj\Debug\net8.0\mesdoc.Common.AssemblyInfoInputs.cache
+C:\Users\mendr\Documents\Myproject\mesdoc\mesdoc.Common\obj\Debug\net8.0\mesdoc.Common.AssemblyInfo.cs
+C:\Users\mendr\Documents\Myproject\mesdoc\mesdoc.Common\obj\Debug\net8.0\mesdoc.Common.csproj.CoreCompileInputs.cache
+C:\Users\mendr\Documents\Myproject\mesdoc\mesdoc.Common\obj\Debug\net8.0\mesdoc.Common.dll
+C:\Users\mendr\Documents\Myproject\mesdoc\mesdoc.Common\obj\Debug\net8.0\refint\mesdoc.Common.dll
+C:\Users\mendr\Documents\Myproject\mesdoc\mesdoc.Common\obj\Debug\net8.0\mesdoc.Common.pdb
+C:\Users\mendr\Documents\Myproject\mesdoc\mesdoc.Common\obj\Debug\net8.0\ref\mesdoc.Common.dll

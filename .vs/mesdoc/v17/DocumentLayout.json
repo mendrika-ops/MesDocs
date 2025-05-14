@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3B23691-CB3A-482B-A466-4DE89EB9A6BF}|mesdoc.Infrastructure\\mesdoc.Infrastructure.csproj|c:\\users\\mendr\\documents\\myproject\\mesdoc\\mesdoc.infrastructure\\mesdoc.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D3B23691-CB3A-482B-A466-4DE89EB9A6BF}|mesdoc.Infrastructure\\mesdoc.Infrastructure.csproj|solutionrelative:mesdoc.infrastructure\\mesdoc.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC0CE17-8911-4565-995A-899D00F4AE84}|mesdoc.Domaine\\mesdoc.Domain.csproj|c:\\users\\mendr\\documents\\myproject\\mesdoc\\mesdoc.domaine\\mesdoc.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CFC0CE17-8911-4565-995A-899D00F4AE84}|mesdoc.Domaine\\mesdoc.Domain.csproj|solutionrelative:mesdoc.domaine\\mesdoc.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E45F81-8936-416D-A4C2-F2121EE87681}|Application\\mesdoc.Application.csproj|c:\\users\\mendr\\documents\\myproject\\mesdoc\\application\\mesdoc.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5E45F81-8936-416D-A4C2-F2121EE87681}|Application\\mesdoc.Application.csproj|solutionrelative:application\\mesdoc.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB01FABB-6ADA-4D60-9635-413188B5971E}|Mesdoc\\mesdoc.Api.csproj|c:\\users\\mendr\\documents\\myproject\\mesdoc\\mesdoc\\mesdoc.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB01FABB-6ADA-4D60-9635-413188B5971E}|Mesdoc\\mesdoc.Api.csproj|solutionrelative:mesdoc\\mesdoc.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E45F81-8936-416D-A4C2-F2121EE87681}|Application\\mesdoc.Application.csproj|c:\\users\\mendr\\documents\\myproject\\mesdoc\\application\\interfaces\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E45F81-8936-416D-A4C2-F2121EE87681}|Application\\mesdoc.Application.csproj|solutionrelative:application\\interfaces\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17CBD831-5E6E-44B2-806C-62DC4417C2C3}|mesdoc.Common\\mesdoc.Common.csproj|c:\\users\\mendr\\documents\\myproject\\mesdoc\\mesdoc.common\\mesdoc.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17CBD831-5E6E-44B2-806C-62DC4417C2C3}|mesdoc.Common\\mesdoc.Common.csproj|solutionrelative:mesdoc.common\\mesdoc.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E45F81-8936-416D-A4C2-F2121EE87681}|Application\\mesdoc.Application.csproj|c:\\users\\mendr\\documents\\myproject\\mesdoc\\application\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E45F81-8936-416D-A4C2-F2121EE87681}|Application\\mesdoc.Application.csproj|solutionrelative:application\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB01FABB-6ADA-4D60-9635-413188B5971E}|Mesdoc\\mesdoc.Api.csproj|c:\\users\\mendr\\documents\\myproject\\mesdoc\\mesdoc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB01FABB-6ADA-4D60-9635-413188B5971E}|Mesdoc\\mesdoc.Api.csproj|solutionrelative:mesdoc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E45F81-8936-416D-A4C2-F2121EE87681}|Application\\mesdoc.Application.csproj|c:\\users\\mendr\\documents\\myproject\\mesdoc\\application\\dtos\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E45F81-8936-416D-A4C2-F2121EE87681}|Application\\mesdoc.Application.csproj|solutionrelative:application\\dtos\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB01FABB-6ADA-4D60-9635-413188B5971E}|Mesdoc\\mesdoc.Api.csproj|c:\\users\\mendr\\documents\\myproject\\mesdoc\\mesdoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB01FABB-6ADA-4D60-9635-413188B5971E}|Mesdoc\\mesdoc.Api.csproj|solutionrelative:mesdoc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB01FABB-6ADA-4D60-9635-413188B5971E}|Mesdoc\\mesdoc.Api.csproj|c:\\users\\mendr\\documents\\myproject\\mesdoc\\mesdoc\\mesdoc.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{DB01FABB-6ADA-4D60-9635-413188B5971E}|Mesdoc\\mesdoc.Api.csproj|solutionrelative:mesdoc\\mesdoc.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB01FABB-6ADA-4D60-9635-413188B5971E}|Mesdoc\\mesdoc.Api.csproj|c:\\users\\mendr\\documents\\myproject\\mesdoc\\mesdoc\\middlewares\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB01FABB-6ADA-4D60-9635-413188B5971E}|Mesdoc\\mesdoc.Api.csproj|solutionrelative:mesdoc\\middlewares\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB01FABB-6ADA-4D60-9635-413188B5971E}|Mesdoc\\mesdoc.Api.csproj|c:\\users\\mendr\\documents\\myproject\\mesdoc\\mesdoc\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB01FABB-6ADA-4D60-9635-413188B5971E}|Mesdoc\\mesdoc.Api.csproj|solutionrelative:mesdoc\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB01FABB-6ADA-4D60-9635-413188B5971E}|Mesdoc\\mesdoc.Api.csproj|c:\\users\\mendr\\documents\\myproject\\mesdoc\\mesdoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB01FABB-6ADA-4D60-9635-413188B5971E}|Mesdoc\\mesdoc.Api.csproj|solutionrelative:mesdoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB01FABB-6ADA-4D60-9635-413188B5971E}|Mesdoc\\mesdoc.Api.csproj|c:\\users\\mendr\\documents\\myproject\\mesdoc\\mesdoc\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB01FABB-6ADA-4D60-9635-413188B5971E}|Mesdoc\\mesdoc.Api.csproj|solutionrelative:mesdoc\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB01FABB-6ADA-4D60-9635-413188B5971E}|Mesdoc\\mesdoc.Api.csproj|c:\\users\\mendr\\documents\\myproject\\mesdoc\\mesdoc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DB01FABB-6ADA-4D60-9635-413188B5971E}|Mesdoc\\mesdoc.Api.csproj|solutionrelative:mesdoc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Application\\Interfaces\\IUserServices.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IUserServices.cs",
+              "ToolTip": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Application\\Interfaces\\IUserServices.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IUserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:29:50.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mesdoc.Common.csproj",
+              "DocumentMoniker": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\mesdoc.Common\\mesdoc.Common.csproj",
+              "RelativeDocumentMoniker": "mesdoc.Common\\mesdoc.Common.csproj",
+              "ToolTip": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\mesdoc.Common\\mesdoc.Common.csproj",
+              "RelativeToolTip": "mesdoc.Common\\mesdoc.Common.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T19:06:53.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mesdoc.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Mesdoc\\mesdoc.Api.csproj",
+              "RelativeDocumentMoniker": "Mesdoc\\mesdoc.Api.csproj",
+              "ToolTip": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Mesdoc\\mesdoc.Api.csproj",
+              "RelativeToolTip": "Mesdoc\\mesdoc.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T18:46:31.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mesdoc.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Application\\mesdoc.Application.csproj",
+              "RelativeDocumentMoniker": "Application\\mesdoc.Application.csproj",
+              "ToolTip": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Application\\mesdoc.Application.csproj",
+              "RelativeToolTip": "Application\\mesdoc.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T18:46:07.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mesdoc.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\mesdoc.Domaine\\mesdoc.Domain.csproj",
+              "RelativeDocumentMoniker": "mesdoc.Domaine\\mesdoc.Domain.csproj",
+              "ToolTip": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\mesdoc.Domaine\\mesdoc.Domain.csproj",
+              "RelativeToolTip": "mesdoc.Domaine\\mesdoc.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T19:08:09.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mesdoc.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\mesdoc.Infrastructure\\mesdoc.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "mesdoc.Infrastructure\\mesdoc.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\mesdoc.Infrastructure\\mesdoc.Infrastructure.csproj",
+              "RelativeToolTip": "mesdoc.Infrastructure\\mesdoc.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T19:09:30.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Application\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Application\\Services\\UserServices.cs",
+              "RelativeToolTip": "Application\\Services\\UserServices.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAjwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:26:21.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Mesdoc\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Mesdoc\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Mesdoc\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Mesdoc\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T18:14:00.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Mesdoc\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Mesdoc\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Mesdoc\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Mesdoc\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAjwBUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:19:38.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Mesdoc\\Program.cs",
+              "RelativeDocumentMoniker": "Mesdoc\\Program.cs",
+              "ToolTip": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Mesdoc\\Program.cs",
+              "RelativeToolTip": "Mesdoc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:18:18.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mesdoc.http",
+              "DocumentMoniker": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Mesdoc\\Mesdoc.http",
+              "RelativeDocumentMoniker": "Mesdoc\\Mesdoc.http",
+              "ToolTip": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Mesdoc\\Mesdoc.http",
+              "RelativeToolTip": "Mesdoc\\Mesdoc.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-10T19:20:08.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Mesdoc\\appsettings.json",
+              "RelativeDocumentMoniker": "Mesdoc\\appsettings.json",
+              "ToolTip": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Mesdoc\\appsettings.json",
+              "RelativeToolTip": "Mesdoc\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T19:20:13.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Application\\DTOs\\User.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\User.cs",
+              "ToolTip": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Application\\DTOs\\User.cs",
+              "RelativeToolTip": "Application\\DTOs\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:58:30.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Middleware.cs",
+              "DocumentMoniker": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Mesdoc\\Middlewares\\Middleware.cs",
+              "RelativeDocumentMoniker": "Mesdoc\\Middlewares\\Middleware.cs",
+              "ToolTip": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Mesdoc\\Middlewares\\Middleware.cs",
+              "RelativeToolTip": "Mesdoc\\Middlewares\\Middleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T19:01:44.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Mesdoc\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Mesdoc\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Mesdoc\\WeatherForecast.cs",
+              "RelativeToolTip": "Mesdoc\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:18:42.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Mesdoc\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Mesdoc\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mendr\\Documents\\Myproject\\mesdoc\\Mesdoc\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Mesdoc\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T17:23:02.83Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

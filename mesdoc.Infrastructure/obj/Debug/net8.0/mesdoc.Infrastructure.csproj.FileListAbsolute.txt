@@ -1,0 +1,11 @@
+C:\Users\mendr\Documents\Myproject\mesdoc\mesdoc.Infrastructure\bin\Debug\net8.0\mesdoc.Infrastructure.deps.json
+C:\Users\mendr\Documents\Myproject\mesdoc\mesdoc.Infrastructure\bin\Debug\net8.0\mesdoc.Infrastructure.dll
+C:\Users\mendr\Documents\Myproject\mesdoc\mesdoc.Infrastructure\bin\Debug\net8.0\mesdoc.Infrastructure.pdb
+C:\Users\mendr\Documents\Myproject\mesdoc\mesdoc.Infrastructure\obj\Debug\net8.0\mesdoc.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mendr\Documents\Myproject\mesdoc\mesdoc.Infrastructure\obj\Debug\net8.0\mesdoc.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\mendr\Documents\Myproject\mesdoc\mesdoc.Infrastructure\obj\Debug\net8.0\mesdoc.Infrastructure.AssemblyInfo.cs
+C:\Users\mendr\Documents\Myproject\mesdoc\mesdoc.Infrastructure\obj\Debug\net8.0\mesdoc.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\mendr\Documents\Myproject\mesdoc\mesdoc.Infrastructure\obj\Debug\net8.0\mesdoc.Infrastructure.dll
+C:\Users\mendr\Documents\Myproject\mesdoc\mesdoc.Infrastructure\obj\Debug\net8.0\refint\mesdoc.Infrastructure.dll
+C:\Users\mendr\Documents\Myproject\mesdoc\mesdoc.Infrastructure\obj\Debug\net8.0\mesdoc.Infrastructure.pdb
+C:\Users\mendr\Documents\Myproject\mesdoc\mesdoc.Infrastructure\obj\Debug\net8.0\ref\mesdoc.Infrastructure.dll
